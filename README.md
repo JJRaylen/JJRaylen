@@ -48,17 +48,14 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
 </a> 
-<a href="https://powerquery.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://magdoulin.shamseldin.com/wp-content/uploads/2021/01/Power-Query-logo.png" alt="Power Query" width="40" height="40"/> 
-</a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/> 
 </a> 
 <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Data_Studio_logo.svg/1200px-Google_Data_Studio_logo.svg.png" alt="Google Data Studio" width="40" height="40"/> 
+<img src="https://avatars.githubusercontent.com/u/46035403?s=280&v=4" alt="Google Data Studio" width="40" height="40"/> 
 </a> 
 <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> 
-<img src="https://exceloffthegrid.com/wp-content/uploads/2021/08/Excel-VBA-Icon.png" alt="VBA" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" alt="VBA" width="40" height="40"/> 
 </a> 
 </p>
 
@@ -70,6 +67,9 @@
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 </a> 
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
 </a> 
