@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: First time seeing dinosaur fossils at 21 years old, rational but at the same time loves art.  
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/146NiUvJqJoXUsey4vrvdYwHXLECu1KhX/view)
+- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/146NiUvJqJoXUsey4vrvdYwHXLECu1KhX/view](https://drive.google.com/file/d/1ZJ54MRfA6qCxkH9Ss2zgI9gxSsHn3aOm/view?usp=sharing))
 
 ### Disscover me more at:  
 <div align="center">
