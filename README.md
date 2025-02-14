@@ -25,7 +25,7 @@
 <a href="mailto:hmtruong1096@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://drive.google.com/file/d/146NiUvJqJoXUsey4vrvdYwHXLECu1KhX/view" target="_blank">
+<a href="https://drive.google.com/file/d/1EsXJWXqlJAZtVWk4XSLHOxpBUtUs1c7q/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/resume-%2300C853.svg?&style=for-the-badge&logo=readme&logoColor=white" alt="Resume" style="margin-bottom: 5px;" />
 </a>
 <a href="tel:+84978435574" target="_blank">
