@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: First time seeing dinosaur fossils at 21 years old, rational but at the same time loves art.  
 
-- 📄 Know about my experiences [View Truong's CV](https://drive.google.com/file/d/1EsXJWXqlJAZtVWk4XSLHOxpBUtUs1c7q/view?usp=sharing)
+- 📄 Know about my experiences [View Truong's CV](https://drive.google.com/file/d/172tETmpJHFz3vSH788MC6OKJtN8UUeNV/view?usp=sharing)
 
 ### Disscover me more at:  
 <div align="center">
